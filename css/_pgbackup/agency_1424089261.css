@@ -992,10 +992,3 @@ section#services img {
   font-size: 63px;
   padding-left: 120px;
 }
-section#contact a {
-  color: #fff;
-}
-section#contact a:hover {
-  color: #fed136;
-  text-decoration: none;
-}
