@@ -1077,25 +1077,4 @@ section#services {
   section#pacotes p.large {
     text-align: center;
   }
-  section#demo .col-sm-7 {
-    margin-left: 10px;
-    margin-right: -9px;
-  }
-  section#demo .col-sm-8 {
-    margin-left: 80px;
-  }
-}
-@media (max-width: 767px) {
-  .email {
-    width: 100%;
-  }
-  .enviar {
-    width: 100%;
-    margin-top: 15px;
-  }
-}
-@media (max-width: 767px) {
-  footer span.copyright {
-    margin-left: 0;
-  }
 }

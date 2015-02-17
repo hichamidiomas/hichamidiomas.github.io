@@ -1023,7 +1023,7 @@ section#services {
   }
 }
 @media (min-width: 1200px) {
-  header .col-lg-3 {
+  .col-lg-3 {
     margin-left: 310px;
     margin-right: -360px;
   }
@@ -1036,66 +1036,5 @@ section#services {
 @media (max-width: 991px) {
   .testemunho {
     text-align: center;
-  }
-}
-@media (min-width: 992px) and (max-width: 1199px) {
-  section#pacotes h4 {
-    font-size: 27px;
-  }
-  section#pacotes h5 {
-    font-size: 15px;
-  }
-  section#pacotes p {
-    font-size: 12px;
-  }
-}
-@media (max-width: 991px) {
-  .valor {
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 7px;
-    border-bottom-left-radius: 7px;
-  }
-  .pacote-max {
-    margin-top: 0;
-  }
-}
-@media (min-width: 992px) and (max-width: 1199px) {
-  .glyphicon-share-alt {
-    padding-left: 90px;
-  }
-}
-@media (max-width: 991px) {
-  .glyphicon-share-alt {
-    padding-left: 0;
-  }
-  section#pacotes {
-    padding-bottom: 80px;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  section#pacotes p.large {
-    text-align: center;
-  }
-  section#demo .col-sm-7 {
-    margin-left: 10px;
-    margin-right: -9px;
-  }
-  section#demo .col-sm-8 {
-    margin-left: 80px;
-  }
-}
-@media (max-width: 767px) {
-  .email {
-    width: 100%;
-  }
-  .enviar {
-    width: 100%;
-    margin-top: 15px;
-  }
-}
-@media (max-width: 767px) {
-  footer span.copyright {
-    margin-left: 0;
   }
 }
