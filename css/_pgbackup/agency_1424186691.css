@@ -1093,12 +1093,9 @@ section#services {
     width: 100%;
     margin-top: 15px;
   }
+}
+@media (max-width: 767px) {
   footer span.copyright {
     margin-left: 0;
-  }
-}
-@media (max-width: 991px) {
-  .pacote-coluna {
-    margin-bottom: 15px;
   }
 }
