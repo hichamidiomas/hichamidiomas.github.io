@@ -746,7 +746,7 @@ body {
 .photo {
   margin-bottom: 0px;
   margin-top: 0px;
-  padding-top: 0;
+  padding-top: 70px;
   padding-left: 0px;
   margin-right: 0px;
   left: 0px;
@@ -1111,14 +1111,4 @@ section#services {
 section#team h3 {
   margin-bottom: 25px;
   margin-top: 2px;
-}
-.prof {
-  margin-bottom: 40px;
-}
-@media (min-width: 992px) and (max-width: 1199px) {
-  .photo {
-    padding-top: 0px;
-    max-width: 115%;
-    padding-left: 11px;
-  }
 }
