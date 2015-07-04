@@ -37,17 +37,13 @@ p.large
     font-size: 16px;
 }
 
-@media (min-width:768px) and (max-width:991px)
-{
-    a,
+a,
  a:hover,
  a:focus,
  a:active,
  a.active
-    {
-        outline: 0;
-        font-size: 12px;
-    }
+{
+    outline: 0;
 }
 
 a
@@ -1561,10 +1557,5 @@ section#team h3
     {
         width: 250px;
     }
-}
-
-.fonetopo
-{
-    color: #ffffff;
 }
 
